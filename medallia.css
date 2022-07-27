@@ -5,7 +5,8 @@ prova1{
     box-shadow: 5px 10px !important;
 }
 
-h2{
+#prova2{
     color: #DC143C;
     background-color: red;
+    font-weight: 700 !important;
 }
