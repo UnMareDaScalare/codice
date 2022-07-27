@@ -23,6 +23,10 @@ prova1{
     box-shadow: 0 0 5px 5px #000000 !important;
 }
 
-input {
+input{
     visibility:hidden !important;
+}
+
+_md-container md-ink-ripple{
+    display: none;
 }
