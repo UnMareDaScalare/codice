@@ -19,10 +19,6 @@ prova1{
     box-shadow: 5px 10px !important;
 }
 
-.provaRadio{
-    box-shadow: 0 0 5px 5px #000000 !important;
-}
-
 input{
     visibility:hidden !important;
 }
@@ -30,3 +26,9 @@ input{
 _md-container md-ink-ripple{
     display: none;
 }
+
+radio-primary{
+    box-shadow: 0 0 5px 5px !important;
+    border-radius: 5px !important;
+}
+
