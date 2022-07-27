@@ -20,7 +20,7 @@ prova1{
 }
 
 .provaRadio{
-    box-shadow: 5px 10px 5px #000000 !important;
+    box-shadow: 0 0 5px 5px #000000 !important;
 }
 
 input {
