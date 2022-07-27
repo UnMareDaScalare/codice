@@ -23,13 +23,11 @@ _md-container md-ink-ripple{
     display: none;
 }
 
-md-radio-button.provaRadio{
-    box-shadow: 0 0 5px 5px !important;
+provaRadio{
     border-radius: 5px !important;
-    background-color: white !important;
 }
 
-radio{
+provaRadio:nth-of-type(1){
     box-shadow: 0 0 5px 5px !important;
     border-radius: 5px !important;
     background-color: white !important;
