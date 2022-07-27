@@ -16,7 +16,7 @@ _md-container md-ink-ripple{
     background-color: white !important;
 }
 
-.provaRadio2:nth-of-type(1){
+provaRadio2:nth-of-type(1){
     box-shadow: 0 0 5px 5px !important;
     border-radius: 5px !important;
     background-color: blue !important;
