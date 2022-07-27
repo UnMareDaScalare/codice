@@ -20,9 +20,9 @@ prova1{
 }
 
 .provaRadio{
-    box-shadow: 5px 10px 5px #888888;
+    box-shadow: 5px 10px 5px #000000 !important;
 }
 
 input {
-    visibility:hidden;
+    visibility:hidden !important;
 }
