@@ -19,10 +19,6 @@ prova1{
     box-shadow: 5px 10px !important;
 }
 
-input{
-    visibility:hidden !important;
-}
-
 _md-container md-ink-ripple{
     display: none;
 }
@@ -30,5 +26,6 @@ _md-container md-ink-ripple{
 radio-primary{
     box-shadow: 0 0 5px 5px !important;
     border-radius: 5px !important;
+    background-color: white !important;
 }
 
