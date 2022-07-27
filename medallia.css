@@ -1,8 +1,8 @@
 prova1{
-    font-weight: 700;
-    color: #000000;
+    font-weight: 700 !important;
+    color: #000000 !important;
     background-color: blue;
-    box-shadow: 5px 10px;
+    box-shadow: 5px 10px !important;
 }
 
 h2{
