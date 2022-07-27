@@ -13,7 +13,10 @@ prova1{
 
 .prova3{
     color: blue;
-    background-color: green;   
+    background-color: green;
+    font-size: 30px;
+    font-weight: 700 !important;
+    box-shadow: 5px 10px !important;
 }
 
 prova4{
