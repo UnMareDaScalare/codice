@@ -1,11 +1,3 @@
-.prova3{
-    color: blue;
-    background-color: green;
-    font-size: 30px;
-    font-weight: 700 !important;
-    box-shadow: 5px 10px !important;
-}
-
 ._md-container{
     display: none !important;
 }
@@ -14,10 +6,25 @@
     box-shadow: 0 0 5px 5px !important;
     border-radius: 5px !important;
     background-color: white !important;
+    /* margin-left: 10px !important; */
+    /* margin-right: 10px !important; */
+    margin: 20px !important;
+    padding: 8px;
+    /* width: 100% !important; */
 }
 
 .titolo{
     background-color: white !important;
     border-radius: 15px !important;
     width: 100% !important;
+    /* padding-top: 10px !important; */
+    /* padding-bottom: 1px !important; */
+    /* padding-left: 20px !important; */
+    padding: 10px 0px 1px 20px !important;
+    margin-bottom: 0px !important;
+    box-shadow: 0 0 5px 5px !important;
+}
+
+.neb-web-component:not(.titolo){
+    padding: 0px !important;
 }
