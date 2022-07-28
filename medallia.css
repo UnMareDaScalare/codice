@@ -52,7 +52,7 @@
     display: none;
 }
 
-img.ng-scope{
+img.ng-scope:not(.img-responsive, .img-fluid){
     padding: 0 0 45px !important;
     width: 100% !important;
     max-width: 10000000px !important;
