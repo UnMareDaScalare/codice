@@ -17,13 +17,19 @@ _md-container md-ink-ripple{
 }
 */
 
-.provaRadio2:nth-of-type(2){
+.provaRadio2:nth-child(1){
     box-shadow: 0 0 5px 5px !important;
     border-radius: 5px !important;
     background-color: white !important;
 }
 
-.provaRadio2:nth-of-type(3){
+.provaRadio2:nth-child(2){
+    box-shadow: 0 0 5px 5px !important;
+    border-radius: 5px !important;
+    background-color: white !important;
+}
+
+.provaRadio2:nth-child(3){
     box-shadow: 0 0 5px 5px !important;
     border-radius: 5px !important;
     background-color: white !important;
