@@ -3,13 +3,13 @@
 }
 
 .provaRadio2:not(.kplFormHolder){
-    box-shadow: 0 0 5px 5px !important;
+    box-shadow: 0 0 5px 5px #C9C9C9 !important;
     border-radius: 5px !important;
     background-color: white !important;
     /* margin-left: 10px !important; */
     /* margin-right: 10px !important; */
     margin: 20px !important;
-    padding: 8px;
+    padding: 8px !important;
     /* width: 100% !important; */
 }
 
@@ -22,9 +22,28 @@
     /* padding-left: 20px !important; */
     padding: 10px 0px 1px 20px !important;
     margin-bottom: 0px !important;
-    box-shadow: 0 0 5px 5px !important;
+    margin-top: -15px !important;
+    box-shadow: 0 5px 5px #C9C9C9 !important;
 }
 
-.neb-web-component:not(.titolo){
+.neb-web-component:not(.titolo, .immagine){
     padding: 0px !important;
+    /* background-color: red; */
+}
+
+.img-responsive{
+    width: 100% !important;
+    border-radius: 0 0 20px 20px !important;
+}
+
+.md-checked{
+    background-color: #E9A0A0 !important;
+}
+
+.immagine{
+    /* background-clip: content-box, padding-box; */
+    padding: 0 0 45px !important;
+    background: linear-gradient(45deg, #820000 0%, #E60000 100%);
+    margin: 0px !important;
+    /* background-clip: content-box, padding-box, border-box; */
 }
