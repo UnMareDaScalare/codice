@@ -7,7 +7,7 @@
 }
 
 ._md-container{
-    display: none;
+    display: none !important;
 }
 
 .provaRadio2:not(.kplFormHolder){
